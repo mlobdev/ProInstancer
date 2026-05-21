@@ -1,0 +1,66 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.7",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ProInstancer",
+			"Enabled": false
+		},
+		{
+			"Name": "Bridge",
+			"Enabled": false
+		},
+		{
+			"Name": "Fab",
+			"Enabled": false
+		},
+		{
+			"Name": "MeshPainting",
+			"Enabled": false
+		},
+		{
+			"Name": "GLTFExporter",
+			"Enabled": false
+		},
+		{
+			"Name": "InterchangeEditor",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Mac"
+			]
+		},
+		{
+			"Name": "Interchange",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Mac"
+			]
+		},
+		{
+			"Name": "MetaHumanSDK",
+			"Enabled": false
+		},
+		{
+			"Name": "SkeletalMeshModelingTools",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosEditor",
+			"Enabled": false
+		},
+		{
+			"Name": "Dataflow",
+			"Enabled": false
+		},
+		{
+			"Name": "InterchangeTests",
+			"Enabled": false
+		}
+	]
+}
