@@ -9,7 +9,7 @@ Are your FPS dropping when filling your scene with objects? ProInstancer is an U
 
 
 
-// Core Features
+__// Core Features__
 
 
 
@@ -34,7 +34,7 @@ Smart Placement: Full control over the generation process, featuring options for
 Clean Editor UI: A native, user-friendly interface integrated directly into the Unreal Engine editor. No complicated setups required.
 
 
-// Technical Details
+__// Technical Details__
 
 
 
